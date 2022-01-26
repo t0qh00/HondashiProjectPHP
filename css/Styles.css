@@ -1,0 +1,14 @@
+
+﻿bodyFondo {
+        background-image: url(css/Img/Logo.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 0%;
+}
+
+.footerPosition {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
